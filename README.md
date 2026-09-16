@@ -12,9 +12,18 @@ people will still recall in twenty years, and the last sentence you say — whic
 
 ## Install
 
+In Claude Code:
+
 ```
 /plugin marketplace add keyuchen21/how-to-speak-skill
-/plugin install how-to-speak
+/plugin install how-to-speak@keyuchen21-plugins
+```
+
+Or from a shell:
+
+```bash
+claude plugin marketplace add keyuchen21/how-to-speak-skill
+claude plugin install how-to-speak@keyuchen21-plugins
 ```
 
 Or, without plugins, copy the skill into your own skills directory:
