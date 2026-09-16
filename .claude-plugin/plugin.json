@@ -2,6 +2,13 @@
   "name": "how-to-speak",
   "description": "Coaches talks, slides and rehearsals using the rules from Patrick Winston's MIT lecture \"How to Speak\": empowerment promise, cycling, fences, props, the 5-minute rule, the Winston Star, and never ending on \"thank you\".",
   "version": "0.1.0",
+  "author": {
+    "name": "keyuchen21",
+    "url": "https://github.com/keyuchen21"
+  },
+  "homepage": "https://github.com/keyuchen21/how-to-speak-skill",
+  "repository": "https://github.com/keyuchen21/how-to-speak-skill",
+  "license": "MIT",
   "keywords": [
     "speaking",
     "presentation",
