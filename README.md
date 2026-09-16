@@ -1,5 +1,8 @@
 # how-to-speak
 
+> **Watch the lecture first: <https://www.youtube.com/watch?v=Unzc731iCUY>**
+> Patrick Winston, *How to Speak*, MIT OpenCourseWare · 63 min
+
 A Claude Code skill that coaches you through a talk, using the rules from **Patrick
 Winston's MIT lecture *How to Speak*** — the one that opens by pointing out that the
 Uniform Code of Military Justice court-martials any officer who sends a soldier into

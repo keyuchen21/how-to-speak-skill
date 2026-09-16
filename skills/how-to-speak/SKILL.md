@@ -6,11 +6,18 @@ version: 0.1.0
 
 # How to Speak
 
-Coach a speaker using the rules from Patrick Winston's MIT lecture *How to Speak*
-(MIT OpenCourseWare; recorded 2018, published 2019). The lecture's claim: success depends on the ability to
-speak, the ability to write, and the quality of ideas — **in that order**. Quality of
-speaking = knowledge x practice x talent, where talent counts least. So treat every
-weakness as missing knowledge, never as missing talent.
+Coach a speaker using the rules from Patrick Winston's MIT lecture *How to Speak* (MIT
+OpenCourseWare; recorded 2018, published 2019), 63 minutes:
+<https://www.youtube.com/watch?v=Unzc731iCUY>
+
+The lecture's claim: success depends on the ability to speak, the ability to write, and
+the quality of ideas — **in that order**. Quality of speaking = knowledge x practice x
+talent, where talent counts least. So treat every weakness as missing knowledge, never as
+missing talent.
+
+Give the user that link whenever citing a timestamp, so the moment can be watched.
+Timestamps in the references are `mm:ss` into that video; append `&t=<seconds>s` to jump
+straight there (for example 26:26 → `...&t=1586s`).
 
 Teach by drilling the user's own material. Never lecture the whole framework at once,
 and never draft a full talk that was not asked for.

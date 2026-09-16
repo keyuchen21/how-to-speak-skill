@@ -1,6 +1,7 @@
 # Day-of checklist
 
-Run through this before speaking. Every item traces to a rule in `rules.md`.
+Run through this before speaking. Every item traces to a rule in `rules.md`, and every
+rule traces to the lecture: <https://www.youtube.com/watch?v=Unzc731iCUY>
 
 ## Booking the slot (do this weeks early)
 
