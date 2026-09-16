@@ -1,0 +1,14 @@
+{
+  "name": "how-to-speak",
+  "owner": {
+    "name": "keyuchen21",
+    "url": "https://github.com/keyuchen21"
+  },
+  "plugins": [
+    {
+      "name": "how-to-speak",
+      "source": "./",
+      "description": "A speaking coach built from Patrick Winston's MIT lecture \"How to Speak\". Prepares talks, reviews slides, plays the audience during rehearsal."
+    }
+  ]
+}
