@@ -1,6 +1,6 @@
 # Quotations, with timestamps
 
-Short quotations from Patrick Winston's *How to Speak* (MIT OpenCourseWare, 2019).
+Short quotations from Patrick Winston's *How to Speak* (MIT OpenCourseWare; recorded 2018, published 2019).
 Video: https://www.youtube.com/watch?v=Unzc731iCUY
 
 **Accuracy note:** these lines are transcribed from the video's captions, then punctuated

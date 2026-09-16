@@ -35,7 +35,7 @@ Run through this before speaking. Every item traces to a rule in `rules.md`.
 - [ ] Slide fonts at 40–50 pt, nothing under 35 pt.
 - [ ] Deck printed once and laid out on a table, to check for air and imagery.
 - [ ] Announce the rule of engagement if it is a teaching session: **no laptops, no
-      phones.** One language processor per human; an open laptop distracts its neighbours
+      phones.** One language processor per human; an open laptop distracts its neighbors
       and degrades the speaker.
 
 ## Body

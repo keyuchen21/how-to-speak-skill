@@ -10,7 +10,7 @@ Sections follow the order of the lecture.
 
 ## 1. Why speaking is worth study (00:19 – 03:15)
 
-- The Uniform Code of Military Justice orders a court martial for any officer who sends
+- The Uniform Code of Military Justice orders a court-martial for any officer who sends
   a soldier into battle without a weapon. Students deserve the same protection: nobody
   should go into life unable to communicate. **(00:19)**
 - Success is determined largely by the ability to **speak**, the ability to **write**,
@@ -80,7 +80,7 @@ people are embarrassed to answer, too hard and nobody has anything to say.
   large hall makes everyone wonder what is wrong. Pick a room of the right size; it does
   not need to be packed.
 
-## 6. Tools: the board (13:20 – 22:30)
+## 6. Tools: the board (13:20 – 16:55)
 
 The board is the tool for **informing** (teaching, lecturing). Slides are the tool for
 **exposing** ideas. Three properties make the board work:
@@ -97,7 +97,7 @@ The board is the tool for **informing** (teaching, lecturing). Slides are the to
 Seymour Papert's trick: he pointed at the board constantly, and **none of what he
 pointed at had anything to do with what he was saying**. It was still effective.
 
-## 7. Props (13:29 – 22:30)
+## 7. Props (16:55 – 23:57)
 
 Playwrights are the custodians of knowledge about props.
 
@@ -120,16 +120,17 @@ Playwrights are the custodians of knowledge about props.
   tendency the first time is to push, not simply let go.
 - **The snapped pointer**: the lecturer once broke a wooden pointer on stage. Twenty
   years later, an audience member remembered that talk as "the one where you broke the
-  pointer". Props are what survive.
+  pointer". Props are what survive. (The lecture returns to this story later, inside the
+  slides section, at **30:22**, while contrasting physical pointers with laser pointers.)
 
-Surveys of students always say: **more chalk, less PowerPoint (22:30)**.
+Surveys of students always say: **more chalk, less PowerPoint (22:25)**.
 
 **Why props and boards work — empathetic mirroring (23:01).** Watching a hand write on a
 board actuates the viewer's mirror neurons: they feel themselves writing. Watching a
 steel ball swing, they feel the ball. A slide or a picture cannot produce that. (The
 lecture flags this as a personal "Lunatic Fringe view", separate from the speed argument.)
 
-## 8. Tools: slides (24:06 – 36:00)
+## 8. Tools: slides (23:57 – 36:00)
 
 Slides are for **exposing** ideas, not teaching them — which is exactly what a job talk
 or conference talk does.
@@ -162,7 +163,7 @@ contains the speaker, and the audience sees the back of the speaker's head — n
 contact, no engagement. A student watching such a talk said: *"we could all leave and he
 wouldn't know."*
 
-**Slides are condiments (26:40).** They support what is said; they are not the main
+**Slides are condiments (26:26).** They support what is said; they are not the main
 event, and the speaker is not a supporting act for the slides.
 
 **The one allowed complex slide (33:57).** A deliberately impossible-to-read slide — the
@@ -190,7 +191,7 @@ A survey of who inspired people, from incoming freshmen to senior faculty:
   **(37:42)**
 
 So say out loud why the work is cool. The lecture's example of building passion into a
-promise: a resource-allocation lecture opens with a map-colouring program running so
+promise: a resource-allocation lecture opens with a map-coloring program running so
 slowly that "the sun will have exploded and consumed the Earth before this program
 finishes" — then, with the adjustment students will understand within 50 minutes, it
 finishes in seconds. *Isn't that cool?*
@@ -200,18 +201,18 @@ teach people how to think, then cannot answer *how*. The lecture's answer: human
 **storytelling animals**. Story skills start with fairy tales in childhood and continue
 through law, business, medicine and engineering. So teaching thinking means providing:
 the stories people need to know, the questions to ask about those stories, mechanisms
-for analysing them, ways of putting stories together, and ways of evaluating how
+for analyzing them, ways of putting stories together, and ways of evaluating how
 reliable a story is.
 
 ## 10. Persuading: oral exams (41:30 – 44:00)
 
 The usual reason people fail an oral exam is **failure to situate** and **failure to
-practise**. **(42:12)**
+practice**. **(42:12)**
 
 - **Situate**: place the research in context — this problem is pursued worldwide, there
   has been no progress for thirty years, a solution matters to many other things.
   Situate in time, place and field.
-- **Practise — but not with the wrong people.** Do not rehearse with officemates or the
+- **Practice — but not with the wrong people.** Do not rehearse with officemates or the
   faculty supervisor. People who already know the work will **hallucinate material that
   is not in the presentation**. **(42:54)** Instead gather friends who do *not* know the
   work, and open the session with: *"if you can't make me cry, I won't value you as a
@@ -240,8 +241,8 @@ are **symbolic creatures**, so they can build symbolic descriptions of relations
 events, string them together, and make stories.
 
 **Evidence of having done something** = enumerate the **steps** needed to reach the
-solution. Not all steps need to be finished. Example shape: specify a behaviour;
-enumerate the constraints that make it possible to deal with that behaviour; implement a
+solution. Not all steps need to be finished. Example shape: specify a behavior;
+enumerate the constraints that make it possible to deal with that behavior; implement a
 system, because engineers do not believe they understand something they cannot build;
 then demonstrate it today.
 
@@ -285,7 +286,7 @@ Bad endings, in the lecture's order:
 - **"Questions?"** — often seen, never written down by anyone. Wasted opportunity.
 - **"Conclusions"** — perfectly legitimate conclusions that nobody cares about.
 
-The right final slide is labelled **Contributions**, because it is the slide that stays
+The right final slide is labeled **Contributions**, because it is the slide that stays
 up while people ask questions and file out. **(53:30 – 57:00)**
 
 ### The final words
@@ -310,7 +311,7 @@ up while people ask questions and file out. **(53:30 – 57:00)**
 
 The lecture's own ending: *"I'm glad you're here, and the reason is that by being here
 you have demonstrated an understanding that how you present and package your ideas is an
-important thing. And I salute you for that."*
+important thing. And I salute you for that."* **(1:02:45)**
 
 ---
 
@@ -326,4 +327,4 @@ important thing. And I salute you for that."*
 | **40–50 pt** | slide font size; below 35 pt is too small |
 | **5 minutes** | to deliver vision + evidence in a job talk |
 | **1** | complex unreadable slide allowed per talk, paper or book |
-| **once** | how often collaborators appear — on the first slide |
+| **first slide** | where collaborators are named — never the last slide |

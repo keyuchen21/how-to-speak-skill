@@ -32,7 +32,7 @@ Just say what you need. The skill loads itself on requests like these:
 |---|---|
 | "Help me prepare a 20-minute talk on our caching layer" | Coaching, in the lecture's order: promise → one idea → fence → outline → prop → ending |
 | "Review these slides" | Every crime named with the fix: word count, font size, laser pointer, `Conclusions` where `Contributions` belongs |
-| "Let me practise on you, be my audience" | Claude plays a smart listener who does *not* know your work, interrupts at the first point of confusion, then asks hostile questions |
+| "Let me practice on you, be my audience" | Claude plays a smart listener who does *not* know your work, interrupts at the first point of confusion, then asks hostile questions |
 | "What does Winston say about ending a talk?" | Answer with a verbatim quote and a timestamp so you can watch that moment |
 
 Also triggers on: job talk, thesis defense, oral exam, conference talk.
@@ -72,7 +72,7 @@ skills/how-to-speak/
 ## Source, and the full transcript
 
 Lecture: **Patrick H. Winston, *How to Speak*, MIT OpenCourseWare**
-<https://www.youtube.com/watch?v=Unzc731iCUY> · 63 minutes · published 2019
+<https://www.youtube.com/watch?v=Unzc731iCUY> · 63 minutes · recorded 2018, published 2019
 
 The full transcript is deliberately **not** bundled here — MIT OpenCourseWare licenses it
 under CC BY-NC-SA 4.0, and vendoring it would put a non-commercial, share-alike condition
